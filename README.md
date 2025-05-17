@@ -26,6 +26,9 @@ The schema is based on a relational database with the following tables:
 Entity relationships are established through foreign keys and normalized structures.
 
 🔗 [Database ER Diagram]
+
+
+
 ![image](https://github.com/user-attachments/assets/7d1cee25-ea57-4cbd-b2f5-1edccec7f826)
 
 ---
